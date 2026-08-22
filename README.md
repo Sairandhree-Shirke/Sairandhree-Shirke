@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+Data+into+decisions;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+Data+into+decisions;Found+hidden+losses+in+dataset;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Sairandhree-Shirke&style=flat-square&color=2F80ED" alt="profile views"/>
 <img src="https://img.shields.io/badge/Open_to-Data_Analyst_Roles-success?style=flat-square"/>
@@ -10,7 +10,7 @@
 
 <br>
 
-## Information 
+##  Info
 
 > B.E. Information Technology (2026, CGPA 8.5) who treats every dataset like a business problem, not a homework assignment. I've found six-figure-equivalent losses in retail data, forecasted demand across 76K+ records, and shipped a working AI app end-to-end — before graduating.
 
@@ -18,9 +18,26 @@
 
 ## 🧰 Toolbox
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,git,github,vscode&theme=dark" />
-</div>
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Analysis & Machine Learning**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/-Statistics_%26_Hypothesis_Testing-4B8BBE?style=flat-square)
+
+**Visualization & BI**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -73,7 +90,7 @@ Building a "chat with your data" tool — ask a plain-English question, get an a
 <br>
 
 <details>
-<summary><b>💭 How I actually approach a dataset (click to expand)</b></summary>
+<summary><b>💭 A few things about how I work</b></summary>
 <br>
 
 - I don't trust a chart until I've sorted the raw column myself and stared at the outliers for a minute. The Texas losses in my Superstore project only showed up because I got suspicious of a "too clean" average.
@@ -81,16 +98,9 @@ Building a "chat with your data" tool — ask a plain-English question, get an a
 - I built CropCure to fall back to a mock-prediction mode when there's no trained model available — because a demo that can't run end-to-end is worse than no demo at all.
 - I'd rather ship a dashboard with 3 solid insights than 10 charts nobody will act on.
 - Currently the most fun part of my week is arguing with my own SQL query until it gives me a number I actually believe.
+
 </details>
 
-<br>
-
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sairandhree-Shirke&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairandhree-Shirke&layout=compact&hide_border=true" height="165"/>
-</div>
 <br>
 
 ## 📫 Let's talk
