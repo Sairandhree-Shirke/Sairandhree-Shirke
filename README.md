@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+Data+into+decisions;Found+%2425%2C729+in+hidden+losses+in+one+dataset;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+Data+into+decisions;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Sairandhree-Shirke&style=flat-square&color=2F80ED" alt="profile views"/>
 <img src="https://img.shields.io/badge/Open_to-Data_Analyst_Roles-success?style=flat-square"/>
@@ -76,11 +76,11 @@ Building a "chat with your data" tool — ask a plain-English question, get an a
 <summary><b>💭 How I actually approach a dataset (click to expand)</b></summary>
 <br>
 
-1. **What decision is this data supposed to inform?** — before opening a notebook.
-2. **Clean and question it** — most "insights" are data-entry errors in disguise.
-3. **Find the number that would make a manager change something** — not just an interesting chart.
-4. **Say it in plain language** — "$25,729 lost in Texas" beats "regional profit variance analysis."
-
+- I don't trust a chart until I've sorted the raw column myself and stared at the outliers for a minute. The Texas losses in my Superstore project only showed up because I got suspicious of a "too clean" average.
+- If I can't explain a finding to someone who's never opened Excel, I don't consider the analysis finished yet.
+- I built CropCure to fall back to a mock-prediction mode when there's no trained model available — because a demo that can't run end-to-end is worse than no demo at all.
+- I'd rather ship a dashboard with 3 solid insights than 10 charts nobody will act on.
+- Currently the most fun part of my week is arguing with my own SQL query until it gives me a number I actually believe.
 </details>
 
 <br>
@@ -88,10 +88,9 @@ Building a "chat with your data" tool — ask a plain-English question, get an a
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sairandhree-Shirke&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sairandhree-Shirke&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sairandhree-Shirke&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairandhree-Shirke&layout=compact&hide_border=true" height="165"/>
 </div>
-
 <br>
 
 ## 📫 Let's talk
