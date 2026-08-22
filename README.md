@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+spreadsheets+into+decisions;Found+%2425%2C729+in+hidden+losses+in+one+dataset;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+Data+into+decisions;Found+%2425%2C729+in+hidden+losses+in+one+dataset;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Sairandhree-Shirke&style=flat-square&color=2F80ED" alt="profile views"/>
 <img src="https://img.shields.io/badge/Open_to-Data_Analyst_Roles-success?style=flat-square"/>
