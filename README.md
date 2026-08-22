@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ Quick scan (for the recruiter with 10 seconds)
+### ⚡ Info
 
 | | |
 |---|---|
