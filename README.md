@@ -1,79 +1,102 @@
-<h1 align="center">Sairandhree Shirke</h1>
-<h3 align="center">I find the number hiding in your spreadsheet that changes your next decision</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sairandhree-Shirke&style=flat-square&color=blue" alt="profile views"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sairandhree+%F0%9F%91%8B;I+turn+messy+spreadsheets+into+decisions;Found+%2425%2C729+in+hidden+losses+in+one+dataset;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Sairandhree-Shirke&style=flat-square&color=2F80ED" alt="profile views"/>
 <img src="https://img.shields.io/badge/Open_to-Data_Analyst_Roles-success?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/Based_in-Maharashtra%2C_India-orange?style=flat-square"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+</div>
 
----
+<br>
 
-### ⚡ Info
+## Information 
 
-| | |
-|---|---|
-| 🎓 | B.E. Information Technology, 2026 — CGPA 8.5 |
-| 📊 | Found **$25,729** in hidden losses across a 9,994-row retail dataset |
-| 📦 | Forecasted demand across **76,000+ records** for inventory planning |
-| 🌱 | Built an AI-powered crop disease detector — 38 disease classes, deployed end-to-end |
-| 🧰 | Python · SQL · Power BI (DAX) · Excel · currently adding GenAI-powered analytics |
+> B.E. Information Technology (2026, CGPA 8.5) who treats every dataset like a business problem, not a homework assignment. I've found six-figure-equivalent losses in retail data, forecasted demand across 76K+ records, and shipped a working AI app end-to-end — before graduating.
 
----
+<br>
 
-### 🗂️ Projects that actually solve something
+## 🧰 Toolbox
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,git,github,vscode&theme=dark" />
+</div>
+
+<br>
+
+## 🗂️ Projects — each one ends with a decision, not just a chart
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**[📉 Superstore Sales Analysis](https://github.com/Sairandhree-Shirke/superstore-analysis)**
+### 📉 [Superstore Sales Analysis](https://github.com/Sairandhree-Shirke/superstore-analysis)
+Uncovered **$25,729** in state-level losses and proved discounts above 20% quietly erase profit — not assumed, calculated.
 
-Traced $25,729 in state-level losses and found discounts above 20% quietly erasing profit.
-
-`Python` `Pandas` `Plotly`
-
-</td>
-<td width="33%" valign="top">
-
-**[📦 Supply Chain Forecasting](https://github.com/Sairandhree-Shirke/Supply-Chain-Demand-Forecasting)**
-
-Forecasted demand across 76,000+ records to replace inventory guesswork with data.
-
-`Python` `Power BI`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**[🌱 CropCure](https://github.com/Sairandhree-Shirke/cropcure_final1)**
+### 📦 [Supply Chain Forecasting](https://github.com/Sairandhree-Shirke/Supply-Chain-Demand-Forecasting)
+Forecasted demand across **76,000+ records**, turning inventory planning from guesswork into a dashboard-driven decision.
 
-CNN model spotting 38 crop diseases from a photo, wired to a live treatment-plan API.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-`Flutter` `FastAPI` `TensorFlow`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [CropCure](https://github.com/Sairandhree-Shirke/cropcure_final1)
+CNN model detecting **38 disease classes across 14 crops** — full pipeline from phone camera to treatment plan, deployed and working.
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 In progress
+Building a "chat with your data" tool — ask a plain-English question, get an answer pulled straight from a live dataset. AI-augmented analytics, not just AI-generated buzzwords.
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### 🛠️ How I work
+<details>
+<summary><b>💭 How I actually approach a dataset (click to expand)</b></summary>
+<br>
 
-I don't just build dashboards — I ask "so what does the business do differently because of this?" before I open a notebook. Every project above ends with a recommendation, not just a chart.
+1. **What decision is this data supposed to inform?** — before opening a notebook.
+2. **Clean and question it** — most "insights" are data-entry errors in disguise.
+3. **Find the number that would make a manager change something** — not just an interesting chart.
+4. **Say it in plain language** — "$25,729 lost in Texas" beats "regional profit variance analysis."
 
-**Currently sharpening:** Advanced DAX + Power Query, and shipping a "chat with your data" tool so a dashboard can answer plain-English questions.
+</details>
 
----
+<br>
 
-### 📫 Let's talk
+## 📊 GitHub Activity
 
-<p align="left">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sairandhree-Shirke&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sairandhree-Shirke&hide_border=true" height="165"/>
+</div>
+
+<br>
+
+## 📫 Let's talk
+
+<div align="center">
 <a href="https://www.linkedin.com/in/sairandhree-shirke/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sairandhreeshirke09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
